@@ -1,16 +1,12 @@
 # flutter_challenge_login
 
-A new Flutter application.
+A new Flutter application based on Dribble Challenge at : https://dribbble.com/shots/4136007-Mobile-UI-Design.
 
-## Getting Started
+## Expected Design
 
-This project is a starting point for a Flutter application.
+## Implemented Design
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Concept Used
+1. Animations
+2. CustomClipper
+3. PageView

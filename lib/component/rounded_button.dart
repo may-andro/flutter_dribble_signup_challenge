@@ -5,7 +5,10 @@ class RoundedButton extends StatelessWidget {
   final String text;
   final LinearGradient linearGradient;
 
-  RoundedButton({@required this.onPressed, @required this.text, @required this.linearGradient});
+  RoundedButton(
+      {@required this.onPressed,
+      @required this.text,
+      @required this.linearGradient});
 
   @override
   Widget build(BuildContext context) {
@@ -15,7 +18,7 @@ class RoundedButton extends StatelessWidget {
         height: 48.0,
         width: double.infinity,
         decoration: BoxDecoration(
-            gradient: linearGradient,
+          gradient: linearGradient,
           borderRadius: new BorderRadius.circular(30.0),
         ),
         child: Material(

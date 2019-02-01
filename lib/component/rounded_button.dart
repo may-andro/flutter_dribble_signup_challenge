@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_challenge_login/utility/gradient.dart';
 
 class RoundedButton extends StatelessWidget {
   final Function onPressed;

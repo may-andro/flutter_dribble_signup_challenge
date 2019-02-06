@@ -1,4 +1,4 @@
-# flutter_challenge_login
+# Dribble Challenge
 
 A new Flutter application based on Dribble Challenge at : https://dribbble.com/shots/4136007-Mobile-UI-Design.
 
